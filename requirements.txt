@@ -1,1 +1,3 @@
-
+sentence-transformers
+faiss-cpu # or faiss-gpu if you used the GPU version
+numpy
