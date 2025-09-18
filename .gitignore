@@ -1,1 +1,11 @@
+# Data and Index Files
+quotes.csv
+quotes.db
+quotes.index
+quotes_data.pkl
+quotes_embeddings.npy
+recent_found_indices.txt
 
+# Python cache
+__pycache__/
+*.pyc
