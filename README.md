@@ -37,7 +37,7 @@ This project is a Python-based semantic search engine that finds quotes based on
 4.  **Download the Data:**
     This project requires the `quotes.csv` file, which is not included in this repository. Please place it in the root directory of the project.
 
-## Usage
+## How to Use
 
 1.  **Create the Index:**
     First, run the `make_index.py` script to process the `quotes.csv` file, generate the embeddings, and save the FAISS index.
