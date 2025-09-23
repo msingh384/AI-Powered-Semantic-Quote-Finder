@@ -1,6 +1,6 @@
 # AI-Powered Semantic Quote Finder
 
-This project is a Python-based semantic search engine that finds quotes based on their meaning, not just keywords. It uses a SentenceTransformer model to convert a large database of quotes into vector embeddings and leverages FAISS (Facebook AI Similarity Search) for high-speed similarity search.
+This project is a Python-based semantic search engine that finds quotes based on their meaning, not just keywords. It uses a SentenceTransformer model to convert a large database of quotes into vector embeddings and leverages FAISS (Facebook AI Similarity Search) for high-speed similarity search!
 
 ## Features
 
